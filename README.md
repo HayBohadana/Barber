@@ -1,0 +1,1 @@
+# BarberApp application for barbers
